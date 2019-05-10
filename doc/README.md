@@ -1,6 +1,6 @@
 # Documentatie
 
-In deze directory zet je per week al je project documentatie:
+In deze directory plaats ik per week al mijn project documentatie:
 
 - Debriefing
 - Project plan

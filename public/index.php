@@ -29,3 +29,4 @@
  */
 
 
+require '../private/includes/AltoRouter.php';

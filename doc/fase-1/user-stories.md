@@ -11,21 +11,23 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
-| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
+| G0001 | Gebruiker | op de homepage kunnen zien wat het onderwerp van de website is | weet wat ik kan verwachten en wat de mogelijkheden zijn | | Must have | TODO |
+| G0002 | Gebruiker | enthousiast raken als ik de homepage zie | zodat ik geamuseerd word. | | Should have | TODO |
+| G0003 | Gebruiker | nieuwsberichten zien over het onderwerp | zodat ik op de hoogte ben over het onderwerp | | Should have | TODO |
+| G0004 | Gebruiker | een datum zien bij de nieuwsberichten | weet dat de pagina actief is door de actuele updates | | Should have | TODO |
+| G0005 | Gebruiker | minimaal 2 pagina's met een onderwerp zien | bepaalde onderwerpen over het onderwerp kan zien | | Must have | TODO |
+| G0006 | Gebruiker | een contact formulier gebruiken | contact kan opnemen met de eigenaar | | Must have | TODO |
+| G0007 | Gebruiker | een about us pagina bekijken | achtergrond informatie kan zien over de eigenaar en makers | | Must have | TODO |
+| G0008 | Gebruiker | kunnen zoeken op de pagina | bepaalde content kan vinden die overeen komt met mijn zoekopdracht | | Must have | TODO |
+| G0009 | Gebruiker | de zoekresultaten in meerdere pagina's zien | overzicht blijf hebben ondanks eventuele grote hoeveelheden van posts | | Should have | TODO |
+| G0010 | Gebruiker | een agenda pagina bekijken | op de hoogte ben van sessies, evenementen en wedstrijden | | Could have | TODO |
+| G0011 | Gebruiker | dat de website responsive is | de website kan bekijken op een telefoon of tablet | | Should have | TODO |
+| G0012 | Gebruiker | op de about us pagina een locatie zien | weet waar de maker actief is | | Could have | TODO |
 
 
-###### Geregistreerde gebruikers
+###### Administrators
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
-
-
-##### Admins
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
-| B0002 | Admin | een account kunnen disablen | zodat ik controle heb over wie er in kan loggen | | Must have | TODO |
-
-
-
+| A0001 | Geregistreerd gebruiker | een administratie pagina | nieuwe berichten kan plaatsen | | Must have | TODO |
+| A0002 | Geregistreerd gebruiker | een administratie pagina | nieuwe berichten kan aanpassen | | Should have | TODO |
+| A0002 | Geregistreerd gebruiker | een administratie pagina | bestaande berichten kan verwijderen | | Must have | TODO |

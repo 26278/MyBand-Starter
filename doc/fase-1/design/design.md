@@ -2,39 +2,44 @@
 
 **Afbeelding 1**  
 Homepage
-![Afbeelding 1](schermontwerp-1.jpg)
+![Afbeelding 1](homepage.png)
 ___
-
 
 **Afbeelding 2**
 Informatie over de baars
-![Afbeelding 2](afbeelding)
+![Afbeelding 2](species.png)
 ___
+
 **Afbeelding 3**
 Informatie over de snoekbaars
-![Afbeelding 1](afbeelding)
+![Afbeelding 1](species.png)
 ___
 
 **Afbeelding 4**
-Blog pagnia
-![Afbeelding 1](afbeelding)
+Blog pagina
+![Afbeelding 1](blog.png)
 ___
 
 **Afbeelding 5**  
 Agenda pagina
-![Afbeelding 1](schermontwerp-1.jpg)
+![Afbeelding 1](agenda.png)
 ___
 
 **Afbeelding 6**
 Zoekpagina
-![Afbeelding](Afbeelding)
+![Afbeelding](searchresult.png)
 ___
 
 **Afbeelding 7**
 Contact pagina
-![Afbeelding](Afbeelding)
+![Afbeelding](contact.png)
 ___
 
 **Afbeelding 8**
 Administratie pagina
-![Afbeelding](Afbeelding)
+![Afbeelding](adminlogin.png)
+___
+
+**Afbeelding 9**
+Administratie panel page
+![Afbeelding 1](adminpanel.png)

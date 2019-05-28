@@ -25,11 +25,11 @@ Deze fase duurt 3 weken
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | README                                            | TODO | [README.md]  (dit document)          | MarkDown |
-| B1-K1-W1 Debriefing                               | TODO | [Debriefing]                         | Markdown |
-| B1-K1-W2 Planning                                 | TODO | [Planning]                           | Markdown |
+| B1-K1-W1 Debriefing                               | DONE | [Debriefing]                         | Markdown |
+| B1-K1-W2 Planning                                 | DONE |  ![Trello](https://trello.com/b/bkuljfIK/myband)                           | Trello |
 | B1-K1-W2 Plan van aanpak                          | TODO | [Plan van Aanpak]                    | Word |
-| B1-K1-W2 User stories                             | TODO | [User Stories]                       | Word |
-| B1-K1-W2 Functioneel ontwerp                      | TODO | [FO]                                 | Word |
+| B1-K1-W2 User stories                             | DONE | [Backlog]                       | Word |
+| B1-K1-W2 Functioneel ontwerp                      | DONE | [FO]                                 | Word |
 | B1-K1-W2 Flowchart                                | TODO | [Flow]                               | Afbeeldingen |
 | B1-K1-W2 Urenschatting                            | TODO | [Urenschatting]                      | Markdown |
 | B1-K1-W2 Wireframes en/of Interactief prototype   | TODO | [axShare]                            | Axshare link |

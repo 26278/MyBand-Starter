@@ -26,7 +26,7 @@ Deze fase duurt 3 weken
 | ------ |  ------ | ------ | ------ |
 | README                                            | TODO | [README.md]  (dit document)          | MarkDown |
 | B1-K1-W1 Debriefing                               | DONE | [Debriefing]                         | Markdown |
-| B1-K1-W2 Planning                                 | DONE |  ![Trello](<https://trello.com/b/bkuljfIK/myband>)                           | Trello |
+| B1-K1-W2 Planning                                 | DONE |  ![Trello] <https://trello.com/b/bkuljfIK/myband>                           | Trello |
 | B1-K1-W2 Plan van aanpak                          | TODO | [Plan van Aanpak]                    | Word |
 | B1-K1-W2 User stories                             | DONE | [Backlog]                       | Word |
 | B1-K1-W2 Functioneel ontwerp                      | DONE | [FO]                                 | Word |

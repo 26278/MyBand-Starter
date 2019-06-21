@@ -2,12 +2,12 @@
 www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
-### Uniek aan dit concept is: 
+### Uniek aan dit concept is:
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
  * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
 
 ---
-#### Milestones 
+#### Milestones
 
 In het [Kwalificatiedossier] voor de opleiding Mediadeveloper staan een aantal *kerntaken* en *werkprocessen*.
 In onderstaande tabel zie je per kerntaak en werkproces welke werkzaamheden en documenten hier bij horen.
@@ -17,7 +17,7 @@ Elke opgeleverd product of document is een *milestone*, een belangrijke stap die
 
 Je wordt beoordeeld op de aanwezigheid en inhoud van onderstaande documenten.
 
-##### Fase 1: Opdracht vaststellen / Projectplan en planning / Ontwerpen & voorbereiden 
+##### Fase 1: Opdracht vaststellen / Projectplan en planning / Ontwerpen & voorbereiden
 
 Deze fase duurt 2 weken
 
@@ -58,12 +58,12 @@ Deze fase duurt 2 weken
 [TO]: </doc/fase-2/technisch-ontwerp.md>
 [Trello]: <https://trello.com/b/He6JX83u/myband-sprints>
 [Trello Tips]: <https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work>
-   
+
 #### Fase 3: Testen en opleveren van het project
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
+| B1-K3-W2 Link naar de live omgeving                        |  DONE |  <https://www.finessepro.nl/MyBand-PredatorFishing/public/> |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
